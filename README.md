@@ -7,7 +7,7 @@ and hosted on GitHub Pages.
 
 ### 1. Create GitHub Repository
 
-1. Create a new repository on GitHub (e.g., `ansible-blog`)
+1. Create a new repository on GitHub (e.g., `ansible_blog`)
 2. Clone it locally
 3. Copy all these files into the repository
 
